@@ -1,0 +1,10 @@
+c:\users\camille\documents\visual studio 2013\Projects\HelloWorldApplication\HelloWorldApplication\bin\Debug\HelloWorldApplication.exe.config
+c:\users\camille\documents\visual studio 2013\Projects\HelloWorldApplication\HelloWorldApplication\bin\Debug\HelloWorldApplication.exe
+c:\users\camille\documents\visual studio 2013\Projects\HelloWorldApplication\HelloWorldApplication\bin\Debug\HelloWorldApplication.pdb
+c:\users\camille\documents\visual studio 2013\Projects\HelloWorldApplication\HelloWorldApplication\bin\Debug\HelloWorldApplication.xml
+c:\users\camille\documents\visual studio 2013\Projects\HelloWorldApplication\HelloWorldApplication\obj\Debug\HelloWorldApplication.Resources.resources
+c:\users\camille\documents\visual studio 2013\Projects\HelloWorldApplication\HelloWorldApplication\obj\Debug\HelloWorldApplication.vbproj.GenerateResource.Cache
+c:\users\camille\documents\visual studio 2013\Projects\HelloWorldApplication\HelloWorldApplication\obj\Debug\HelloWorldApplication.exe
+c:\users\camille\documents\visual studio 2013\Projects\HelloWorldApplication\HelloWorldApplication\obj\Debug\HelloWorldApplication.xml
+c:\users\camille\documents\visual studio 2013\Projects\HelloWorldApplication\HelloWorldApplication\obj\Debug\HelloWorldApplication.pdb
+c:\users\camille\documents\visual studio 2013\Projects\HelloWorldApplication\HelloWorldApplication\obj\Debug\HelloWorldApplication.HelloWorld.resources
